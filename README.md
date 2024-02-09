@@ -1,2 +1,2 @@
 # Learning
-New to me information 
+A place to take notes on 'new to me' information 
